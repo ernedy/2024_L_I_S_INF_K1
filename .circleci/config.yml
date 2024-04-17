@@ -12,3 +12,4 @@ workflows:
   basic:
     jobs:
       - build-and-test
+      błąd
